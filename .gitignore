@@ -1,0 +1,26 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Project Specific Logs ---
+sort_log.txt
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+*.swp
+
+# --- Distribution/Environments ---
+venv/
+env/
+.env
+build/
+dist/
+*.egg-info/
