@@ -16,6 +16,6 @@ python image_sorter.py [directory] [limiter] [--move]
 ```
 
 ## Examples
-> python image_sorter.py ./Photos 25
+> python media_sorter.py ./Photos 25
 
-> python image_sorter.py ./Downloads --move
+> python media_sorter.py ./Downloads --move
