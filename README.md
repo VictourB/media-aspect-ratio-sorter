@@ -12,7 +12,7 @@ A tool designed to automatically categorize images and videos based on their asp
 
 ## Usage
 ```
-python image_sorter.py [directory] [limiter] [--move]
+python media_sorter.py [directory] [limiter] [--move]
 ```
 
 ## Examples
